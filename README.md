@@ -8,18 +8,21 @@
 _Replace anything surrounded by the `< >` symbols (including the < >)._
 
 ## SUMMARY OF LATE POLICY FOR THE COURSE:
- < Provide a  description of the courses late policy >
+Deducted 10% for every day an assignment is late up until 50%
+Can then resubmit for up to 50% up until last day of classes
+Can use 5 grace days but can't be used for final project
+No additional extensions
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: none 
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+none
 
 ## REFERENCES:
- < List any outside resources used >
+none
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+王亚圣 is just my Chinese name I thought it didn't work with Python but apparently it does.
